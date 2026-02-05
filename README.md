@@ -4,7 +4,7 @@
 🚀 Passionate about **Software Engineering**, **AI systems**, and building real-world projects  
 🎯 Seeking **Software Engineering internships** to learn fast and ship impactful features
 
-🔗 **Portfolio:** https://syed40h.github.io/Portfolio/  
+
 💼 **LinkedIn:** https://www.linkedin.com/in/aseel-al-hakimi/
 
 ---
